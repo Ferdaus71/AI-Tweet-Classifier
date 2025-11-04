@@ -174,7 +174,7 @@ AI-Crisis-Tweet-Classifier/
 
 ```bash
 # Clone the repository
-git clone https://github.com/shaownXjony/AI-Crisis-Tweet-Classifier.git
+git clone https://github.com/Ferdaus71/AI-Tweet-Classifier.git
 cd AI-Crisis-Tweet-Classifier
 
 # Install dependencies
