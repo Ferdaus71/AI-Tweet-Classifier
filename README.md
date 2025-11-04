@@ -232,7 +232,7 @@ This project is released under the MIT License — feel free to use, modify, and
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/shaownXjony/AI-Crisis-Tweet-Classifier/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Ferdaus71/AI-Tweet-Classifier).
 
 ---
 
