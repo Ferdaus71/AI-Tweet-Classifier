@@ -221,12 +221,12 @@ This project is released under the MIT License — feel free to use, modify, and
 
 ## 👨‍💻 Author
 
-**Md. Shaown Rahman**  
+**Md. Ferdaus Hossen**  
 🎓 Department of Computer Science and Engineering  
-📍 Bogura, Bangladesh  
-💼 Passionate about Data Science & Analytics, AI, and Intelligent Systems
+📍 Green University of Bangladesh 
+💼 Passionate AI,ML and Intelligent Systems
 
-📧 [Email](mailto:shaownrahman30@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/md-shaown-rahman-a4ab6b36a) | 💻 [GitHub](https://github.com/shaownXjony)
+📧 [Email](mailto:smferdaushossen0@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/ferdaus71/) | 💻 [GitHub](https://github.com/Ferdaus71)
 
 ---
 
