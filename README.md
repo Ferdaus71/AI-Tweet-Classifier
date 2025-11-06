@@ -110,6 +110,7 @@ The project includes a **Streamlit web interface** to classify live tweets or ba
 ```bash
 streamlit run app.py
 ```
+streamlit link : https://ai-tweet-classifier-99evkndwhb25ilqfws5vhr.streamlit.app/
 
 ### 💬 Single Tweet Mode
 
